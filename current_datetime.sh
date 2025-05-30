@@ -1,3 +1,3 @@
 #!/bin/Bash
 
-ls -la
+date '+%Y-%m-%d %H:%M:%S'
